@@ -36,3 +36,14 @@
     transform: rotate(360deg);
   }
 }
+.textl {
+  font-family: "Roboto", sans-serif;
+}
+.navbar-collapse { max-height: 100% !important; }
+
+.textcursive{
+  font-family: Cursive
+}
+.textAboutme{
+  font-family:  Fantasy
+}
