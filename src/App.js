@@ -15,6 +15,7 @@ import Experience from './components/Experience.js';
 import Technologies from './components/Technologies.js';
 import Header from './components/Header.js';
 import Contactme from './components/ContactMe.js';
+import Footer from './components/Footer.js';
 class  App extends Component {
   
   render(){
@@ -59,11 +60,11 @@ class  App extends Component {
 </div>
 
   <section>
-<h3 class="textAboutme">About Me</h3>
+<h3 class="textAboutme" id="aboutme">About Me</h3>
 <br/>
-<h4 class="textcursive">WHO AM I ?</h4>
+<h4>WHO AM I ?</h4>
 <h4 class="textl"> 
-I am software enginner having about 6.5 years of experience in QA with more than 5 years of experience on Selenium Web Driver using C# and Java.
+I am software engineer having about 6.5 years of experience in QA with more than 5 years of experience on Selenium Web Driver using C# and Java.
 <br/>
 I love exploring new technologies 
 
@@ -71,8 +72,11 @@ I love exploring new technologies
   </section>
 <br/>
 <br/>
-
+<br/>
+<br/>
 <Technologies id="Somewhere"/>
+<br/>
+<br/>
 <br/>
 <br/>
 <br/>
@@ -81,27 +85,10 @@ I love exploring new technologies
 <br/>
 <br/>
 <br/>
-
 <Contactme/>
 
-
-
-<footer>
-  <br/>
-<div class="spinner-grow text-muted"></div>
-<div class="spinner-grow text-primary"></div>
-<div class="spinner-grow text-success"></div>
-<div class="spinner-grow text-info"></div>
-<div class="spinner-grow text-warning"></div>
-<div class="spinner-grow text-danger"></div>
-<div class="spinner-grow text-secondary"></div>
-<div class="spinner-grow text-dark"></div>
-<div class="spinner-grow text-light"></div>
-</footer>
-<nav class="navbar navbar-expand-sm navbar-light bg-light">
-  No rights reserved
-</nav>
-    </div>
+<Footer/>
+</div>
   );
 }
 }

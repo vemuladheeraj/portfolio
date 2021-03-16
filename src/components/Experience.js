@@ -7,8 +7,8 @@ class Experience extends Component{
     render(){
 return(
     
-    <div class="container">
-    <h3 class="textAboutme">My Experiece</h3>
+    <div id = "exp" class="container">
+    <h3 class="textAboutme">My Experience</h3>
     <div class="row">
         <div class="col-md-12">
             <div class="main-timeline2">

@@ -5,7 +5,7 @@ class Technologies extends Component{
     render(){
         return(                       
 
-<div class="container">
+<div id="tech" class="container">
 <h3 class="textAboutme">Technologies and Tools</h3>
 <br/>
 <p>
@@ -64,7 +64,7 @@ Few more which i cannot rate :D
 <span class="badge badge-success" >QTP</span>
 </span>
 <span style={{paddingLeft:'30px'}}>
-<span class="badge badge-success" >Load Balancer</span>
+<span class="badge badge-success" >Load Runner</span>
 </span>
 <span style={{paddingLeft:'30px'}}>
 <span class="badge badge-success" >GCP</span>

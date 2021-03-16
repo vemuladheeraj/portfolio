@@ -23,15 +23,15 @@ class Header extends Component{
         <div class="collapse navbar-collapse" id="navbar1">
             <ul class="navbar-nav">
                 <li class="nav-item active">
-                    <a class="nav-link" onClick={this.test}>About Me</a>
+                    <a class="nav-link" href="#aboutme">About Me</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" href="#">Experience</a>
+                    <a class="nav-link" href="#exp">Experience</a>
                 </li>
             </ul>
             <ul class="navbar-nav ml-auto">
                 <li class="nav-item active">
-                    <a class="nav-link" href="#">Contact</a>
+                    <a class="nav-link" href="#contact">Contact</a>
                 </li>
             </ul>
         </div>
