@@ -47,3 +47,8 @@
 .textAboutme{
   font-family:  Fantasy
 }
+
+.brlarge { 
+  display: block; 
+  margin-bottom: 9em; 
+} 

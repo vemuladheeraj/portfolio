@@ -59,7 +59,7 @@ window.onclick = function(event) {
              <br/>
              <a href="https://github.com/gitname/react-gh-pages/">2. Deploying site to Github pages</a>
              <br/>
-             <a href="https://bootsnipp.com/">3. Templage idea of Contact Us</a>
+             <a href="https://bootsnipp.com/">3. Template idea of Contact Us</a>
              <br/>
              <a href="https://www.w3schools.com/bootstrap4/default.asp/">4. Bootstrap help</a>
              <br/>

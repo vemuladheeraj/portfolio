@@ -11,11 +11,13 @@ import insta from './logos/instagram.svg';
 import linkedin from './logos/linkedin.svg';
 import github from './logos/github.svg';
 import myimage from './logos/rbackimage.png';
+import download from './logos/cloud-download.svg';
 import Experience from './components/Experience.js';
 import Technologies from './components/Technologies.js';
 import Header from './components/Header.js';
 import Contactme from './components/ContactMe.js';
 import Footer from './components/Footer.js';
+import resume from './DheerajResume.pdf';
 class  App extends Component {
   
   render(){
@@ -26,29 +28,29 @@ class  App extends Component {
 <div class="row">
   <div class="col-sm-9">
   <div class="row">
-  <div class="col-sm-6">
+  <div class="col-sm-9">
   <div> 
-    <br/>
-    <br/>
-    <br/>
-    <br/>
-    <br/>
-    <br/>
-    <br/>
+
+   <span  class="brlarge"></span>
     </div>
     <h3 style={{color:'grey'}}>HEY THERE!</h3>
     <h1> I am Dheeraj Vemula</h1>
     <h4>Automation engineer</h4> 
-    <div>
+    <div> 
+   <a href="https://www.linkedin.com/in/dheerajvemula/"> <img src={linkedin} width="65" height="65" style={{border: 'solid 15px', color:'white'}}/></a>
+   <a href="https://dev.azure.com/vemuladheeraj/"><img src={azure} width="65" height="65" style={{border: 'solid 15px', color:'white'}}/></a>
    <a href="https://www.instagram.com/vemuladheeraj/"><img src={insta} width="65" height="65" style={{border: 'solid 15px', color:'white'}} /></a>
    <a href="#"><img src={mail} width="65" height="65" style={{border: 'solid 15px', color:'white'}}/></a>
    <a href="https://www.facebook.com/vemula.dheeraj.7/"> <img src={fb} width="65" height="65" style={{border: 'solid 15px', color:'white'}}/></a>
-   <a href="https://www.linkedin.com/in/dheerajvemula/"> <img src={linkedin} width="65" height="65" style={{border: 'solid 15px', color:'white'}}/></a>
-   <a href="https://dev.azure.com/vemuladheeraj/"><img src={azure} width="65" height="65" style={{border: 'solid 15px', color:'white'}}/></a>
     </div>
     <div class="col-sm-12">
   <a href="https://github.com/vemuladheeraj"><img src={github} width="65" height="65" style={{border: 'solid 15px', color:'white'}}/></a>
   </div>
+  <br>
+  </br>
+  <div class="container">
+  <div><a href={resume}><img src={download} width="65" height="65" /><br/>Resume</a></div>
+</div>
   </div>
   </div>  
   </div>
@@ -63,29 +65,20 @@ class  App extends Component {
 <h3 class="textAboutme" id="aboutme">About Me</h3>
 <br/>
 <h4>WHO AM I ?</h4>
-<h4 class="textl"> 
+<h5> 
 I am software engineer having about 6.5 years of experience in QA with more than 5 years of experience on Selenium Web Driver using C# and Java.
 <br/>
 I love exploring new technologies 
 
-</h4>
+</h5>
   </section>
-<br/>
-<br/>
-<br/>
-<br/>
+  <span  class="brlarge"></span>
 <Technologies id="Somewhere"/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
+<span  class="brlarge"></span>
  <Experience/>
-<br/>
-<br/>
-<br/>
-<br/>
+ <span  class="brlarge"></span>
 <Contactme/>
+
 
 <Footer/>
 </div>

@@ -14,7 +14,29 @@ class Header extends Component{
        }
     render(){
         return(
-<nav class="navbar navbar-expand-sm sticky-top navbar-light bg-light">
+           <div>
+            <nav class="navbar navbar-expand-sm bg-light justify-content-center ">
+            
+           <ul class="navbar-nav">
+               <li class="nav-item active">
+               <a class="nav-link" href="#">Home</a>
+               </li>
+                <li class="nav-item active">
+                    <a class="nav-link" href="#aboutme">About Me</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="#exp">Experience</a>
+                </li>
+                <li class="nav-item active">
+                    <a class="nav-link" href="#contact">Contact</a>
+                </li>
+            </ul>
+        
+          </nav>
+            
+
+
+{/* <nav class="navbar navbar-expand-sm sticky-top navbar-light bg-light">
     <div class="container">
         <a class="navbar-brand" href="#">Home</a>
         <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navbar1">
@@ -36,7 +58,9 @@ class Header extends Component{
             </ul>
         </div>
     </div>
-</nav>
+</nav> */}
+
+</div>
         );
     }}
     export default Header;
