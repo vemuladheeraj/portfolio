@@ -10,7 +10,7 @@ class Technologies extends Component{
 <br/>
 <p>
   <h5>
-  Have you ever heard <q> Jack of All trades but master of none ? </q> Yeah! that's me.. ;)
+  Have you ever heard <q> Jack of All trades but master of none ? </q> Yeah! that's me... ;)
   </h5>
 </p>
 <br/>
