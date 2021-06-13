@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.ffe17f9f.chunk.css",
-    "main.js": "/portfolio/static/js/main.71a55be5.chunk.js",
-    "main.js.map": "/portfolio/static/js/main.71a55be5.chunk.js.map",
+    "main.js": "/portfolio/static/js/main.bef948f4.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.bef948f4.chunk.js.map",
     "runtime-main.js": "/portfolio/static/js/runtime-main.c20cc212.js",
     "runtime-main.js.map": "/portfolio/static/js/runtime-main.c20cc212.js.map",
     "static/css/2.ef9168ec.chunk.css": "/portfolio/static/css/2.ef9168ec.chunk.css",
@@ -14,7 +14,7 @@
     "static/css/2.ef9168ec.chunk.css.map": "/portfolio/static/css/2.ef9168ec.chunk.css.map",
     "static/css/main.ffe17f9f.chunk.css.map": "/portfolio/static/css/main.ffe17f9f.chunk.css.map",
     "static/js/2.cd7da45a.chunk.js.LICENSE.txt": "/portfolio/static/js/2.cd7da45a.chunk.js.LICENSE.txt",
-    "static/media/DheerajResume.ebf5f1fd.pdf": "/portfolio/static/media/DheerajResume.ebf5f1fd.pdf",
+    "static/media/DheerajResume.cf1fd385.pdf": "/portfolio/static/media/DheerajResume.cf1fd385.pdf",
     "static/media/azuredevops.e07fe652.svg": "/portfolio/static/media/azuredevops.e07fe652.svg",
     "static/media/cloud-download.d1b45803.svg": "/portfolio/static/media/cloud-download.d1b45803.svg",
     "static/media/facebook.2ca05ac4.svg": "/portfolio/static/media/facebook.2ca05ac4.svg",
@@ -30,6 +30,6 @@
     "static/css/2.ef9168ec.chunk.css",
     "static/js/2.cd7da45a.chunk.js",
     "static/css/main.ffe17f9f.chunk.css",
-    "static/js/main.71a55be5.chunk.js"
+    "static/js/main.bef948f4.chunk.js"
   ]
 }
