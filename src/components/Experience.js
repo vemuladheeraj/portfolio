@@ -23,7 +23,7 @@ return(
                         </div>
                         <h3 class="title">Advisory Service Analyst</h3>
                         <p class="description">
-                              Working as Advisory Service Analyst with <b>Optum Global Technology Solutions(part of UHG)</b> from July 2021 till date.
+                              Working as Advisory Service Analyst with <b>Optum Global Solutions(part of UHG)</b> from July 2021 till date.
                         </p>
                     </a>
                 </div>
