@@ -39,7 +39,7 @@ class Technologies extends Component{
 </div>
 <br/>
 <div class="progress" style={{height:'20px'}}>
-<div class="progress-bar progress-bar-striped progress-bar-animated" style={{width:'75%'}}><h6> Java Script</h6></div>
+<div class="progress-bar progress-bar-striped progress-bar-animated" style={{width:'40%'}}><h6> Java Script</h6></div>
 </div>
 <br/>
 <div class="progress" style={{height:'20px'}}>
@@ -48,6 +48,10 @@ class Technologies extends Component{
 <br/>
 <div class="progress" style={{height:'20px'}}>
 <div class="progress-bar progress-bar-striped progress-bar-animated" style={{width:'45%'}}><h6> React JS</h6></div>
+</div>
+<br/>
+<div class="progress" style={{height:'20px'}}>
+<div class="progress-bar progress-bar-striped progress-bar-animated" style={{width:'65%'}}><h6> UIPath(RPA)</h6></div>
 </div>
 <br/>
 Few more which i cannot rate :D
@@ -66,9 +70,9 @@ Few more which i cannot rate :D
 <span style={{paddingLeft:'30px'}}>
 <span class="badge badge-success" >Load Runner</span>
 </span>
-<span style={{paddingLeft:'30px'}}>
+{/* <span style={{paddingLeft:'30px'}}>
 <span class="badge badge-success" >GCP</span>
-</span>
+</span> */}
 </span>
 </div>
         );
