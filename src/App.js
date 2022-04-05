@@ -66,7 +66,7 @@ class  App extends Component {
 <br/>
 <h4>WHO AM I ?</h4>
 <h5> 
-I am software engineer having about 7 years of experience in QA with more than 5.5 years of experience on Selenium Web Driver using C#.
+I am software engineer having about 7.6 years of experience in QA with more than 6.5 years of experience on Selenium Web Driver using C#.
 <br/>
 I love exploring new technologies 
 

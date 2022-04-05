@@ -19,7 +19,7 @@ class Technologies extends Component{
 </div>
 <br/>
 <div class="progress" style={{height:'20px'}}>
-<div class="progress-bar progress-bar-striped progress-bar-animated" style={{width:'80%'}}><h6> C#</h6></div>
+<div class="progress-bar progress-bar-striped progress-bar-animated" style={{width:'85%'}}><h6> C#</h6></div>
 </div>
 <br/>
 <div class="progress" style={{height:'20px'}}>
@@ -35,7 +35,7 @@ class Technologies extends Component{
 </div>
 <br/>
 <div class="progress" style={{height:'20px'}}>
-<div class="progress-bar progress-bar-striped progress-bar-animated" style={{width:'69%'}}><h6> Java</h6></div>
+<div class="progress-bar progress-bar-striped progress-bar-animated" style={{width:'63%'}}><h6> Java</h6></div>
 </div>
 <br/>
 <div class="progress" style={{height:'20px'}}>
