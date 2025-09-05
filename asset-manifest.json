@@ -1,35 +1,25 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.590dd6dc.chunk.css",
-    "main.js": "/portfolio/static/js/main.1b592558.chunk.js",
-    "main.js.map": "/portfolio/static/js/main.1b592558.chunk.js.map",
-    "runtime-main.js": "/portfolio/static/js/runtime-main.bb2971ab.js",
-    "runtime-main.js.map": "/portfolio/static/js/runtime-main.bb2971ab.js.map",
-    "static/css/2.ef9168ec.chunk.css": "/portfolio/static/css/2.ef9168ec.chunk.css",
-    "static/js/2.d2f76f05.chunk.js": "/portfolio/static/js/2.d2f76f05.chunk.js",
-    "static/js/2.d2f76f05.chunk.js.map": "/portfolio/static/js/2.d2f76f05.chunk.js.map",
-    "static/js/3.65df0c53.chunk.js": "/portfolio/static/js/3.65df0c53.chunk.js",
-    "static/js/3.65df0c53.chunk.js.map": "/portfolio/static/js/3.65df0c53.chunk.js.map",
+    "main.css": "/portfolio/static/css/main.84f72e4c.css",
+    "main.js": "/portfolio/static/js/main.0c347b61.js",
+    "static/js/453.80a9a3cc.chunk.js": "/portfolio/static/js/453.80a9a3cc.chunk.js",
+    "static/media/DheerajResume.pdf": "/portfolio/static/media/DheerajResume.4d3ca989466357bb4a56.pdf",
+    "static/media/rbackimage.png": "/portfolio/static/media/rbackimage.ad51c0c09351498fdfba.png",
+    "static/media/logo.svg": "/portfolio/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "static/media/instagram.svg": "/portfolio/static/media/instagram.f0cfa30d48f79bb3d8c99ebf43dea781.svg",
+    "static/media/cloud-download.svg": "/portfolio/static/media/cloud-download.d1b45803e618b8fb694b4d6976ee769d.svg",
+    "static/media/github.svg": "/portfolio/static/media/github.16a9304e38fd8167989291ab92544e14.svg",
     "index.html": "/portfolio/index.html",
-    "static/css/2.ef9168ec.chunk.css.map": "/portfolio/static/css/2.ef9168ec.chunk.css.map",
-    "static/css/main.590dd6dc.chunk.css.map": "/portfolio/static/css/main.590dd6dc.chunk.css.map",
-    "static/js/2.d2f76f05.chunk.js.LICENSE.txt": "/portfolio/static/js/2.d2f76f05.chunk.js.LICENSE.txt",
-    "static/media/DheerajResume.4d3ca989.pdf": "/portfolio/static/media/DheerajResume.4d3ca989.pdf",
-    "static/media/azuredevops.e07fe652.svg": "/portfolio/static/media/azuredevops.e07fe652.svg",
-    "static/media/cloud-download.d1b45803.svg": "/portfolio/static/media/cloud-download.d1b45803.svg",
-    "static/media/facebook.2ca05ac4.svg": "/portfolio/static/media/facebook.2ca05ac4.svg",
-    "static/media/github.16a9304e.svg": "/portfolio/static/media/github.16a9304e.svg",
-    "static/media/gmail.9e34ea5d.svg": "/portfolio/static/media/gmail.9e34ea5d.svg",
-    "static/media/instagram.f0cfa30d.svg": "/portfolio/static/media/instagram.f0cfa30d.svg",
-    "static/media/linkedin.03f1d164.svg": "/portfolio/static/media/linkedin.03f1d164.svg",
-    "static/media/logo.6ce24c58.svg": "/portfolio/static/media/logo.6ce24c58.svg",
-    "static/media/rbackimage.ad51c0c0.png": "/portfolio/static/media/rbackimage.ad51c0c0.png"
+    "static/media/linkedin.svg": "/portfolio/static/media/linkedin.03f1d164221e3a81954e6ec24a350288.svg",
+    "static/media/facebook.svg": "/portfolio/static/media/facebook.2ca05ac4e5d06e216d32439045a93951.svg",
+    "static/media/gmail.svg": "/portfolio/static/media/gmail.9e34ea5d72bde4071327916c12f55196.svg",
+    "static/media/azuredevops.svg": "/portfolio/static/media/azuredevops.e07fe652f0fe9501ac726077f355c3d8.svg",
+    "main.84f72e4c.css.map": "/portfolio/static/css/main.84f72e4c.css.map",
+    "main.0c347b61.js.map": "/portfolio/static/js/main.0c347b61.js.map",
+    "453.80a9a3cc.chunk.js.map": "/portfolio/static/js/453.80a9a3cc.chunk.js.map"
   },
   "entrypoints": [
-    "static/js/runtime-main.bb2971ab.js",
-    "static/css/2.ef9168ec.chunk.css",
-    "static/js/2.d2f76f05.chunk.js",
-    "static/css/main.590dd6dc.chunk.css",
-    "static/js/main.1b592558.chunk.js"
+    "static/css/main.84f72e4c.css",
+    "static/js/main.0c347b61.js"
   ]
 }
