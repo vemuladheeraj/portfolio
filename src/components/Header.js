@@ -2,70 +2,21 @@ import React,{Component} from 'react';
 import 'bootstrap/dist/css/bootstrap.css';
 
 class Header extends Component{
-   constructor(){
-       super();
-       this.test=this.test.bind(this);
-   }
-   test()
-       {
-           debugger;
-        //    var a =document.getElementById('Somewhere');
-        //    a.scrollIntoView();
-       }
-    render(){
+   render(){
+        const onToggleTheme = this.props.onToggleTheme;
         return(
-           <div>
-            <nav class="navbar navbar-expand-sm bg-light justify-content-center ">
-            
-           <ul class="navbar-nav">
-               <li class="nav-item active">
-               <a class="nav-link" href="#">Home</a>
-               </li>
-                <li class="nav-item active">
-                    <a class="nav-link" href="#aboutme">About Me</a>
-                </li>
-                <li class="nav-item">
-                    <a class="nav-link" href="#exp">Experience</a>
-                </li>
-                <li class="nav-item active">
-                    <a class="nav-link" href="#contact">Contact</a>
-                </li>
-            </ul>
-        
-          </nav>
-            
-
-
-{/* <nav class="navbar navbar-expand-sm sticky-top navbar-light bg-light">
-    <div class="container">
-        <a class="navbar-brand" href="#">Home</a>
-        <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navbar1">
-            <span class="navbar-toggler-icon"></span>
-        </button>
-        <div class="collapse navbar-collapse" id="navbar1">
-            <ul class="navbar-nav">
-                <li class="nav-item active">
-                    <a class="nav-link" href="#aboutme">About Me</a>
-                </li>
-                <li class="nav-item">
-                    <a class="nav-link" href="#exp">Experience</a>
-                </li>
-            </ul>
-            <ul class="navbar-nav ml-auto">
-                <li class="nav-item active">
-                    <a class="nav-link" href="#contact">Contact</a>
-                </li>
-            </ul>
-        </div>
-    </div>
-</nav> */}
-
-</div>
+           <div className="navbar-modern">
+            <div className="container-narrow d-flex align-items-center justify-content-between" style={{padding: '12px 0'}}>
+              <div className="d-flex align-items-center" style={{gap:'10px'}}>
+                <a className="nav-link" href="#" style={{fontWeight:800, color:'var(--text)'}}>DV</a>
+                <a className="nav-link" href="#aboutme">About</a>
+                <a className="nav-link" href="#tech">Skills</a>
+                <a className="nav-link" href="#exp">Experience</a>
+                <a className="nav-link" href="#contact">Contact</a>
+              </div>
+              <button className="btn-theme-toggle" onClick={onToggleTheme} aria-label="Toggle theme">Toggle theme</button>
+            </div>
+          </div>
         );
     }}
     export default Header;
-
-    // function test()
-    // {
-    //     document.getElementById('Somewhere').scrollIntoView();
-    // }
